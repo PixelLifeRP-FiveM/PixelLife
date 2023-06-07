@@ -16,8 +16,8 @@
 
 
 -- Dumping database structure for projectphoenix
-CREATE DATABASE IF NOT EXISTS `projectphoenix` /*!40100 DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci */;
-USE `projectphoenix`;
+CREATE DATABASE IF NOT EXISTS `Fresh2` /*!40100 DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci */;
+USE `Fresh2`;
 
 -- Dumping structure for table projectphoenix.apartments
 CREATE TABLE IF NOT EXISTS `apartments` (
